@@ -1,0 +1,2 @@
+reviewId,appId,appName,bundleId,developer,country,rating,title,text,userName,reviewedAt,isEdited,hasDeveloperResponse,developerResponse,developerResponseAt,reviewUrl,position,source,scrapedAt
+example-review-001,310633997,WhatsApp,net.whatsapp.WhatsApp,WhatsApp Inc.,us,5,Helpful update,The new layout makes settings easier to find.,Example reviewer,2026-09-01T09:00:00Z,False,False,,,https://apps.apple.com/us/app/id310633997?see-all=reviews,1,app_store_catalog,2026-09-02T09:00:00Z

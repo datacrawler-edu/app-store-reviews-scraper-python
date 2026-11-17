@@ -1,0 +1,23 @@
+[
+  {
+    "reviewId": "example-review-001",
+    "appId": "310633997",
+    "appName": "WhatsApp",
+    "bundleId": "net.whatsapp.WhatsApp",
+    "developer": "WhatsApp Inc.",
+    "country": "us",
+    "rating": 5,
+    "title": "Helpful update",
+    "text": "The new layout makes settings easier to find.",
+    "userName": "Example reviewer",
+    "reviewedAt": "2026-09-01T09:00:00Z",
+    "isEdited": false,
+    "hasDeveloperResponse": false,
+    "developerResponse": null,
+    "developerResponseAt": null,
+    "reviewUrl": "https://apps.apple.com/us/app/id310633997?see-all=reviews",
+    "position": 1,
+    "source": "app_store_catalog",
+    "scrapedAt": "2026-09-02T09:00:00Z"
+  }
+]

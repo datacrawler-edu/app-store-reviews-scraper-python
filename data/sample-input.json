@@ -1,0 +1,11 @@
+{
+  "apps": [
+    "310633997"
+  ],
+  "countries": [
+    "us"
+  ],
+  "maxReviewsPerApp": 10,
+  "maxItems": 10,
+  "sort": "mostRecent"
+}
